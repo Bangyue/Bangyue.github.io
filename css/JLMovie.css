@@ -1,0 +1,104 @@
+@charset "utf-8";
+@import url(" webfonts/duke_fill/stylesheet.css");
+/* CSS Document */
+html{
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+.mainbody{
+	background-color: black;
+	
+}
+
+.JLMpic1 {
+	text-align:center;
+	width:100%;
+
+	
+
+}
+.JLLOGO{
+	text-align: center;
+	position: relative;
+	bottom: 250px;
+	left:50%;
+	margin-left:-150px;
+	float:left;
+}
+.movieintro{
+	padding:40px;
+}
+.contentstyle1{
+	color: #FFFFFF;
+	font-family: 'Eras Demi ITC','MSmart HKS Bold', "Agency FB";
+	font-size: 25px;
+	letter-spacing: 2px;
+
+}
+.contentstyle2{
+	color: #FFFFFF;
+	font-family: 'Source Han Sans ExtraLight','Yu Gothic Light';
+	font-size: 20px;
+}
+.contentstyle3{
+	color: #FFFFFF;
+	font-family: "Malgun Gothic Semilight";
+	font-size: 15px;
+	font-weight: lighter;	
+}
+
+.plot{
+	float: left;
+	color: #FFFFFF;
+	font-family: "duke fill","Berlin Sans FB Demi";
+	font-size: 100px;
+	position: relative;
+	bottom: 500px;
+	
+		
+}
+
+.cast{
+	float: right;
+	color: #FFFFFF;
+	font-family: "duke fill","Berlin Sans FB Demi";
+	font-size: 100px;
+	position: relative;
+	bottom: 500px;
+	right: 200px;
+
+}
+.hopeneverdies{
+	color: #FFFFFF;
+	font-family: "duke fill","Berlin Sans FB Demi";
+	font-size: 50px;
+	position: relative;
+	bottom: 600px;
+	left:500px;
+	
+
+
+	
+}
+.plot a,.cast a,.hopeneverdies a{
+		text-decoration: none;
+	list-style-type: none;
+		color: #FFFFFF;
+	transition:color 0.5s ease 0s;
+		z-index:1px;
+}
+.plot:hover>a,.cast:hover>a,.hopeneverdies:hover>a{
+		color: #0078f0;
+
+}
+.shadow {
+	width: 1364px;
+	height:763px;
+	z-index:-1px;
+	box-shadow: 0 0px 100px 50px black inset;
+	position:fixed;
+	left:86px;
+	top:0px;
+float:left;
+
+}

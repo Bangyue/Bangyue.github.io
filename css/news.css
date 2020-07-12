@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	overflow-x: hidden;
+}
+.news{
+	
+	margin:160px 200px;
+	
+}
+ .title h2{
+	font-family:"MarianinaFYW01-MediumIt";
+	font-size:60px;
+	 color:#0078f0;
+	 
+	
+}
+ .title h3{
+	font-family: "Calibri Light";
+	font-size: 32px;
+	font-weight: normal;	
+	  position: relative;
+
+
+}
+ .title h4{
+	font-family: 'Lato Thin';
+	font-size: 20px;
+	font-weight: normal;	
+text-align: right;
+	 	 position: relative;
+	 bottom:30px;
+}
+.newtext{
+	color:#000;
+	font-family: "Bahnschrift Light";
+	font-size: 20px;
+}
+.newtext h6{
+	margin:10px;
+	font-size: 25px;
+	font-weight: 800;
+	font-family: 'Calibri Light';
+}
+.backtohome{
+	
+	font-family: 'MarianinaFYW01-MediumIt';
+	font-size: 40px;
+	position:relative;
+	left:800px;
+	top:10px;
+}
+.backtohome a:visited ,.backtohome a:link{
+		color:#292929;
+}
+.backtohome a:hover{
+	color:#0078f0;
+}

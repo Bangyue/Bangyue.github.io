@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.bgcolor{
+	background-color: #222222;
+}
+.characterpic{
+display: inline-block;
+}
+.supermanpic{
+	display: inline-block;
+}
+.batmanpic{
+	display: inline-block;
+}
+.wonderwomanpic{
+	display: inline-block;
+}
+.flashpic{
+	display: inline-block;
+}
+.greenlanternpic{
+	display: inline-block;
+}
+.aquamanpic{
+	display: inline-block;
+}
+.cyborgpic{
+	display: inline-block;
+}
+.martianmanhunterpic{
+	display:inline-block;
+}
+.characterpic img{
+	width:185px;
+	height:185px;
+	display: inline-block;
+}
+#jseffecttext{
+	background-color: #292828;
+	width: 100%;
+	text-align: center;
+	color: #FFFFFF;	
+}
+.textstyle1 {
+	font-size: 70px;
+	font-family: "STONE HARBOUR";
+	
+}	
+.textstyle2 {
+	font-size: 25px;
+	font-family:"Yu Gothic Light";
+}

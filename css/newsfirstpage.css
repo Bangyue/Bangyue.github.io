@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #3A3A3A;
+
+}
+h1 {
+	position: relative;
+	top:80px;
+	text-align: center;
+	font-size: 100px;
+	color: #0078F0;
+	font-family: "duke fill","Berlin Sans FB Demi";	
+}
+
+#new1{
+	height:650px;
+	width:1000px;
+	background-color: #575757;
+	position:relative;
+	top:100px;
+	margin:0 auto;
+	padding:50px 50px;
+	color:white;
+
+}
+.pic{
+	padding-top:30px;
+	width:996px;
+	
+}
+.new h2 a:link,.new h2 a:visited{
+	font-family:"MarianinaFYW01-MediumIt";
+	font-size:45px;
+	color:white;
+	text-decoration: none;
+	
+	
+}
+.new h3{
+	font-family: "Calibri Light";
+	font-size: 28px;
+	font-weight: normal;	
+}
+.new h4{
+	font-family: 'Lato Thin';
+	font-size: 15px;
+	font-weight: normal;	
+text-align: right;
+}
+.new p{
+	width:996px;
+	color:#C2C2C2;
+	font-size: 15px;
+	position: relative;
+	top:10px;
+}
+.more{
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: right; 
+}
+.more :link,.more a:visited{
+	color:#C2C2C2;
+}
+.more a:hover{
+	color:#0078F0;
+}
+#new2{
+	height:650px;
+	width:1000px;
+	background-color: #575757;
+	position:relative;
+	top:100px;
+	right:50px;
+	margin:0 auto;
+	padding:50px 50px;
+	color:white;
+
+}
+#new3{
+	height:650px;
+	width:1000px;
+	background-color: #575757;
+	position:relative;
+	top:70px;
+	margin:0 auto;
+	padding:50px 50px;
+	color:white;
+	right:48px;
+
+}
+.new h2 a:hover{
+	color:#0078f0;
+}

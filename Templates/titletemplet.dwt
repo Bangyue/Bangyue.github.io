@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+* {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+html, body {
+	height: 100%;
+	width: 100%;
+}
+</style>
+<link href="../css/wickedcss.min.css" rel="stylesheet" type="text/css">
+<link href="../css/menu2.css" rel="stylesheet" type="text/css">
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body >
+
+<div class="header">
+
+  <div class="nav" >
+    <ul class="slideDown">
+      <li><a href="../homepage.html">HOME</a> </li>
+		 <li><a href="../newsfirstpage.html">NEWS</a></li>
+      <li><a href="../character firstpage.html">CHARACTERS</a>
+        <ul class="slideDown">
+          <li><a href="../SUPERMAN.html">SUPERMAN</a></li>
+          <li><a href="../batman.html">BATMAN</a></li>
+          <li><a href="../wonderwoman.html">WONDERWOMAN</a></li>
+          <li><a href="../the flash.html">FLASH</a></li>
+          <li><a href="../aquaman.html">AQUAMAN</a></li>
+        </ul>
+      </li>
+      <li><a href="../COMIC.html">COMIC</a>
+        <ul class="slideDown">
+          <li><a href="../COMIC.html#MUSTREADS">MUSTREADS</a></li>
+          <li><a href="../COMIC.html#MASTERPIECES">BIG EVENTS</a></li>
+          
+        </ul>
+      </li>
+      <li><a href="../JL Movie.html">MOVIES</a>
+        <ul class="slideDown">
+          <li><a href="../JL Movie.html">JUSTICE LEAGUE</a></li>
+          <li><a href="#">DC UNIVERSE</a>
+            <ul class="slideRight">
+              <li><a href="../batman.html">BATMAN</a></li>
+              <li><a href="../SUPERMAN.html">SUPERMAN</a></li>
+              <li><a href="../GL.html">THE GREENLANTERN</a></li>
+            </ul>
+          </li>
+
+          <li><a href="../cartoonmovie.html">CARTOONS</a></li>
+        </ul>
+      </li>
+      <li><a href="../DCcompany.html">ABOUT DC</a></li>
+
+    </ul>
+  </div>
+	<div class="textstyle1" id="theme">JUSTICE LEAGUE</div>
+</div>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<div></div>
+<!-- TemplateEndEditable -->
+</body>
+</html>

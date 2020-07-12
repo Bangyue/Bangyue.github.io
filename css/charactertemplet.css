@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+ ::-webkit-scrollbar {
+ width: 2px;
+ background: rgba(255, 255, 255, 0.1);
+}
+
+        ::-webkit-scrollbar-track {
+ background: none;
+}
+
+        ::-webkit-scrollbar-thumb {
+ background: #0078f0;
+}
+
+.rightcolumn{
+	display: block;
+	position: absolute;
+	width: 400px;
+	right: 0px;
+	text-indent: 0px;
+	margin-right: 50px;
+	margin-top: 50px;
+	
+}
+.rightcolumn hr{
+	height: 10px;
+	border: none;
+	border-top: 10px solid #AFAFAF;
+
+}
+.allinfo hr{
+		height: 3px;
+	border: none;
+	border-top: 3px solid #AFAFAF;
+}
+.textstyle3{
+	font-family: "Gill Sans MT";
+	color: #B9B9B9;
+	font-size: 30px;
+	clear: left;
+	
+}
+
+
+.rightcolumn ul li{
+
+	height: 40px;
+	text-align: left;
+	line-height: 40px;
+	
+}
+.rightcolumn ul li a{
+	color: #B9B9B9;
+	text-decoration: none;
+	list-style-type: none;
+	font-size: medium;
+	font-family: "Gill Sans MT";
+	position: relative;
+	left: 10px;
+}
+.rightcolumn ul li:hover{
+	background-color: #3B3B3B;
+	border-radius: 10px;
+		
+}
+.rightcolumn ul li:hover>a{
+	color: #0078f0;
+}
+
+.square{
+	width: 10px;
+	height: 30px;
+	background-color: #B9B9B9;
+	float: left;
+	position:relative;
+	bottom: 10px;
+}
+.title{
+	display: inline-block;
+}
+.allinfo{
+	position: absolute;
+	left: 100px;
+	width: 800px;
+	margin-top: 50px;
+	padding: 50px;
+	background-color: #353535;	
+}
+.allinfo div {
+	margin: 10px;	
+}
+
+
+
+.fullname{
+	color: #FFFFFF;
+	font-family: 'Source Han Sans ExtraLight','Yu Gothic Light';
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+.contentstyle1{
+	color: #FFFFFF;
+	font-family: 'Eras Demi ITC','MSmart HKS Bold', "Agency FB";
+	font-size: 25px;
+	letter-spacing: 2px;
+
+}
+.contentstyle2{
+	color: #FFFFFF;
+	font-family: 'Source Han Sans ExtraLight','Yu Gothic Light';
+	font-size: 20px;
+}
+.contentstyle3{
+	color: #FFFFFF;
+	font-family: "Malgun Gothic Semilight";
+	font-size: 15px;
+	font-weight: lighter;	
+}
+
+
+.moviepic div{
+	width:257px;
+	display: inline-block;
+}
+.moviepic img{
+	width:257px;
+	height:388px;
+}
+.moviename{
+	width: 257px;
+	height:auto;
+	text-align:center;
+	color: #FFFFFF;
+	background-color: #2E2E2E;
+	line-height: 50px;
+	font-family: 'Source Han Sans ExtraLight','Yu Gothic Light';
+
+}
+
+.aquamanmoviename{
+	width: 474px;
+	height:auto;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #2E2E2E;
+	line-height: 50px;
+	font-family: 'Source Han Sans ExtraLight','Yu Gothic Light';
+
+}
+
+
+#1943movie{
+	width:257px;
+	height:342px;
+}
+#aquaman{
+	width:474px;
+	height:327px;
+}
+.auqamanmoviepic {
+	width:474px;
+	height:327px;
+}

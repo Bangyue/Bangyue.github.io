@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+  ::-webkit-scrollbar {
+ width: 2px;
+ background: rgba(255, 255, 255, 0.1);
+}
+
+        ::-webkit-scrollbar-track {
+ background: none;
+}
+
+        ::-webkit-scrollbar-thumb {
+ background: #0078f0;
+}
+*{
+	overflow-x: hidden;
+}
+.title img{
+	max-width:100%;
+	
+}
+.DCintro{
+	background-image: url(../images/QQ截图20180505195229.png);
+
+	height:500px;
+	padding:50px 100px;
+	line-height:50px;
+
+}
+.DCintro p{
+	color:white;
+	font-family: 'Bahnschrift Light';
+	font-size: 20px;
+	position: relative;
+	top:150px;
+	
+}
+span {
+	font-family: "duke fill","Berlin Sans FB Demi";
+	font-size: 40px;
+}
+.backtohome{
+	
+	font-family: 'MarianinaFYW01-MediumIt';
+	font-size: 40px;
+	position:relative;
+	left:900px;
+	top:200px;
+}
+.backtohome a:visited ,.backtohome a:link{
+		color:white;
+}
+.backtohome a:hover{
+	color:#0078f0;
+}
